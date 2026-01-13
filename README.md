@@ -14,9 +14,9 @@
 |------------|----------------|
 | **Learning Format** | Hybrid (Onsite + Online) |
 | **Classroom (Onsite)** | CB40610(1) |
-| **Zoom Link (Online)** | [https://kmutt-ac-th.zoom.us/j/7836125217](https://kmutt-ac-th.zoom.us/j/7836125217) |
+| **Zoom Link (Online)** | [Zoom Meeting](https://kmutt-ac-th.zoom.us/j/91070941196?pwd=uBsClotSLtJJQD7eiyNJAzOIK2oXpc.1), Meeting ID: **910 7094 1196**, Passcode: **989846** |
 | **Schedule** | Tuesday, 16:30 – 19:30 |
-| **Assessments & Quizzes** | 100% Assignments & Quizzes (No midterm/final exams) |
+| **Evaluation** | Assignments: **20%**, Quizzes: **80%**|
 
 ---
 
@@ -83,15 +83,23 @@ Each quiz consists of **two parts**:
 
 ---
 
+## **Assignment Submission and Quiz Attendance Policy**
+
+* Late submissions will be considered as not submitted.
+* If a student misses a quiz **without a valid reason**, they will receive **0 points** for that quiz.
+* If a student misses a quiz **with a valid reason** (supported by an official leave form or evidence), they may request a make-up quiz and will receive **70% of the score earned** (actual score × 0.7).
+
+---
+
 ## 📈 Course Progression
 
 This course is structured in **three progressive phases**:
 
 ### Phase 1: Foundations and Simulation (Weeks 1–3)
-- IoT fundamentals and communication models
-- Python programming fundamentals
-- Node-RED flow-based programming and dashboard UI
-- Development environment setup
+- IoT fundamentals and communication models (self-study)
+- Python programming fundamentals (self-study)
+- Node-RED flow-based programming and dashboard UI (self-study)
+- Development environment setup (self-study)
 - **Assessment:** Quiz 1 (Week 4) – 20%
 
 ### Phase 2: Hardware-Based IoT Systems (Weeks 5–7)
