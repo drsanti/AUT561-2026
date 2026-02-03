@@ -123,11 +123,11 @@ Logic that labels the system state:
 1. Add a **Switch** node named: **Temp State Switch**
 
    * Property: `msg.payload`
-   * Add rules:
+   * Add rules (in this order; Node-RED Switch uses one operator per rule, not combined conditions):
 
-     * `<= 40`
-     * `> 40 and <= 48`
-     * `> 48`
+     * `<= 40` → output 1 (NORMAL)
+     * **is between** `40` and `48` → output 2 (WARNING)
+     * `> 48` → output 3 (ALARM)
 
 2. Add three **Change** nodes (or Function nodes) to tag the state:
 
