@@ -66,7 +66,13 @@
 
 ---
 
-## **Week 4: Quiz 1 – IoT Fundamentals and Basic Programming**
+## **Week 4: Python for Beginners & Quiz 1**
+
+* **Python Programming for Beginners (self-study)**
+
+  * Hands-on chapters Ch01–Ch13: introduction and Python environment, variables, conditionals, loops, functions, lambda and list comprehensions, lists, dictionaries, file I/O and CSV, classes, modules, error handling
+  * Each chapter includes runnable examples and exercises; supports Quiz 1 preparation
+  * See [Week 4 Materials](./Week04/) for chapter index and links
 
 * **Quiz 1: Basic Knowledge and Basic Programming**
 
@@ -296,9 +302,10 @@
 
 This course is structured into three progressive phases, each increasing in system complexity and integration depth.
 
-### **Phase 1: Foundations and Simulation** (Weeks 1–3)
+### **Phase 1: Foundations and Simulation** (Weeks 1–4)
 
 * **Learning Focus:** IoT fundamentals, communication models, and basic programming
+* **Resources:** Week 3 workshops; Week 4 Python for Beginners chapters (Ch01–Ch13)
 * **Assessment:** **Quiz 1** (Week 4) – 20%
 
 ### **Phase 2: Hardware-Based IoT Systems** (Weeks 5–7)
@@ -315,6 +322,6 @@ This course is structured into three progressive phases, each increasing in syst
 
 ---
 
-**Last Updated:** 2026-01-12
+**Last Updated:** 2026-02-03
 
 ---

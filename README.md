@@ -47,6 +47,7 @@ Upon successful completion of this course, students will be able to:
 - **[Week 1: Course Introduction and IoT Overview](./Week01/)** - Introduction to Internet of Things for embedded systems and PLC-based automation
 - **[Week 2: Software Installation and Development Environment Setup](./Week02/)** - Installing and configuring development tools (Python, VS Code, Node-RED, Docker, ModusToolbox)
 - **[Week 3: Programming Foundations and Node-RED Introduction](./Week03/)** - Python fundamentals and Node-RED flow-based programming
+- **[Week 4: Python for Beginners & Quiz 1](./Week04/)** - Self-study chapters (Ch01–Ch13) and Quiz 1 assessment
 
 ---
 
@@ -102,11 +103,12 @@ Each quiz consists of **two parts**:
 
 This course is structured in **three progressive phases**:
 
-### Phase 1: Foundations and Simulation (Weeks 1–3)
+### Phase 1: Foundations and Simulation (Weeks 1–4)
 - IoT fundamentals and communication models (self-study)
 - Python programming fundamentals (self-study)
 - Node-RED flow-based programming and dashboard UI (self-study)
 - Development environment setup (self-study)
+- Week 4 Python for Beginners chapters (Ch01–Ch13) for extra practice
 - **Assessment:** Quiz 1 (Week 4) – 20%
 
 ### Phase 2: Hardware-Based IoT Systems (Weeks 5–7)
@@ -160,7 +162,7 @@ To successfully participate in this course, students must have access to:
 | 1 | Course Introduction and Internet-of-Things Overview | Learn & Practice |
 | 2 | Software Installation and Development Environment Setup | Learn & Practice |
 | 3 | Programming Foundations and Node-RED Introduction | Learn & Practice |
-| 4 | **Quiz 1** – IoT Fundamentals and Basic Programming | **Quiz 1 (20%)** |
+| 4 | Python for Beginners (Ch01–Ch13) & **Quiz 1** | Self-study + **Quiz 1 (20%)** |
 | 5-7 | Simulated IoT Systems, Data Processing, and Hardware Integration | Learn & Practice |
 | 8 | **Quiz 2** – Hardware Integration and IoT Applications | **Quiz 2 (25%)** |
 | 9-13 | Sensor Fusion, Digital Twin, Backend Processing, AI/ML, and System Integration | Learn & Practice |
@@ -194,6 +196,7 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 - [Week 1 Materials](./Week01/)
 - [Week 2 Materials](./Week02/)
 - [Week 3 Materials](./Week03/)
+- [Week 4 Materials](./Week04/)
 
 ---
 
@@ -206,9 +209,10 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 3. **Begin with [Week 1](./Week01/)** - Course Introduction and IoT Overview
 4. **Complete [Week 2](./Week02/)** - Set up your development environment
 5. **Start [Week 3](./Week03/)** - Learn Python and Node-RED programming
+6. **Review [Week 4](./Week04/)** - Python for Beginners chapters and Quiz 1 preparation
 
 ---
 
-**Last Updated:** 2026-01-12
+**Last Updated:** 2026-02-03
 
 ---
