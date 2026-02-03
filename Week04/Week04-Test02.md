@@ -161,7 +161,7 @@ Write `p12_filter.py` that:
 * P9–P10 cover classes and error handling (Ch11, Ch13)
 * P11–P12 integrate multiple concepts (Quiz 1 style)
 
-If any exercise is difficult, review the corresponding chapter in [Week 4 Materials](./README.md).
+If any exercise is difficult, review the corresponding chapter in [Week 4 Materials](./README.md). **Quiz 1 is held in Week 5**—see [Week 5 Quiz 1 materials](../Week05/Quiz-01/) for preparation checklist and scoring policy.
 
 ---
 

@@ -66,7 +66,7 @@
 
 ---
 
-## **Week 4: Python for Beginners & Quiz 1**
+## **Week 4: Python for Beginners**
 
 * **Python Programming for Beginners (self-study)**
 
@@ -74,14 +74,9 @@
   * Each chapter includes runnable examples and exercises; supports Quiz 1 preparation
   * See [Week 4 Materials](./Week04/) for chapter index and links
 
-* **Quiz 1: Basic Knowledge and Basic Programming**
-
-  * Paper-based (handwritten): IoT concepts, architectures, communication models, and Node-RED fundamentals
-  * Programming: Basic Python coding, simple IoT data processing, and Node-RED flow development with dashboard UI
-
 ---
 
-## **Week 5: Simulated IoT Systems Using Node-RED and MQTT**
+## **Week 5: Simulated IoT Systems Using Node-RED and MQTT & Quiz 1**
 
 * Introduction to **Model 1: Simulated IoT Systems** and its role in IoT system learning
 * Overview of **Node-RED** as a flow-based development platform for IoT applications
@@ -95,6 +90,11 @@
 * **IoT data flow design**, message processing, and event-driven logic
 * Basic techniques for **system monitoring and debugging** in simulated environments
 * **Hands-on:** Designing and implementing a complete simulated IoT system using Node-RED and MQTT, including Python MQTT clients
+
+* **Quiz 1: Basic Knowledge and Basic Programming**
+
+  * Paper-based (handwritten): IoT concepts, architectures, communication models, and Node-RED fundamentals
+  * Programming: Basic Python coding, simple IoT data processing, and Node-RED flow development with dashboard UI
 
 ---
 
@@ -306,7 +306,7 @@ This course is structured into three progressive phases, each increasing in syst
 
 * **Learning Focus:** IoT fundamentals, communication models, and basic programming
 * **Resources:** Week 3 workshops; Week 4 Python for Beginners chapters (Ch01–Ch13)
-* **Assessment:** **Quiz 1** (Week 4) – 20%
+* **Assessment:** **Quiz 1** (Week 5) – 20%
 
 ### **Phase 2: Hardware-Based IoT Systems** (Weeks 5–7)
 

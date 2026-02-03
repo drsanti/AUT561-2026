@@ -336,13 +336,13 @@ After this week, you should clearly understand:
 **Week 3 answers:**
 “How do we program logic and data flow for automation-oriented IoT systems?”
 
-**Week 4 (Python for Beginners & Quiz 1):**
+**Week 4 (Python for Beginners):**
 
 * **Python for Beginners** chapters (Ch01–Ch13) – hands-on exercises for variables, functions, loops, lists, dicts, file I/O, classes, etc. See [Week 4 Materials](../Week04/).
-* **Quiz 1** – IoT fundamentals, Python basics, Node-RED flow logic
 
-**Week 5:**
+**Week 5 (Simulated IoT & Quiz 1):**
 
+* **Quiz 1** – IoT fundamentals, Python basics, Node-RED flow logic (held in Week 5; see [Week 5 Quiz 1 materials](../Week05/Quiz-01/) for details and scoring policy)
 * Simulated IoT systems using MQTT and Node-RED
 
 ---

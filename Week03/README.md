@@ -96,7 +96,7 @@ By the end of Week 3, you should be able to:
 5. ✅ Complete the **[Week 3 Practice Set](./Week03-Test02.md)** (optional but recommended)
 6. ✅ Complete the verification checklists in both workshops
 7. ✅ Work through **Week 4 Python for Beginners** chapters (Ch01–Ch11) if you need extra practice—see [Week 4 Materials](../Week04/)
-8. ✅ Prepare for Week 4 (Quiz 1)
+8. ✅ Prepare for Week 5 (Quiz 1)—see [Week 5 Quiz 1 materials](../Week05/Quiz-01/) for checklist and scoring policy
 
 ---
 
@@ -124,7 +124,8 @@ Make sure you have installed and verified (from Week 2):
 * [Course Syllabus](../Syllabus.md)
 * [Week 1 Materials](../Week01/)
 * [Week 2 Materials](../Week02/)
-* [Week 4 Materials (Python for Beginners & Quiz 1)](../Week04/)
+* [Week 4 Materials (Python for Beginners)](../Week04/)
+* [Week 5 Quiz 1 (preparation & scoring policy)](../Week05/Quiz-01/)
 
 ---
 
@@ -160,16 +161,16 @@ Make sure you understand these terms:
 
 ## ➡️ **Next Week Preview**
 
-**Week 4: Python for Beginners & Quiz 1**
+**Week 4: Python for Beginners**
 
 * **Python for Beginners (self-study):** Hands-on chapters Ch01–Ch13 covering introduction and Python environment, variables, conditionals, loops, functions, lists, dictionaries, file I/O, classes, modules, and error handling. Each chapter has runnable examples and exercises—see [Week 4 Materials](../Week04/).
-* **Quiz 1** will assess:
-  * IoT fundamentals (Week 1)
-  * Development environment setup (Week 2)
-  * Python programming fundamentals (Week 3)
-  * Node-RED flow-based programming (Week 3)
 
-**Preparation:** Review all Week 1-3 materials, complete all workshops, work through Week 4 Python chapters (Ch01–Ch11) if you need extra practice, and practice the self-test quizzes. Make sure you can write basic Python programs and build simple Node-RED flows.
+**Week 5: Simulated IoT & Quiz 1**
+
+* **Quiz 1** is held in **Week 5**. It will assess: IoT fundamentals (Week 1), development environment (Week 2), Python programming (Week 3), Node-RED flow-based programming (Week 3). See [Week 5 Quiz 1 materials](../Week05/Quiz-01/) for preparation checklist and **programming examination scoring policy**.
+* **Simulated IoT:** Node-RED, MQTT, Python MQTT clients (see [Outline](../Outline.md)).
+
+**Preparation:** Review all Week 1–3 materials, complete all workshops, work through Week 4 Python chapters (Ch01–Ch13) if you need extra practice, and practice the self-test quizzes. Complete all items in [Week 5 Quiz 1 preparation](../Week05/Quiz-01/Quiz1-Prepare.md) before Quiz 1.
 
 ---
 

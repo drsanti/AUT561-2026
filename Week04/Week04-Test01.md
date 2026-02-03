@@ -247,3 +247,4 @@ Or using a loop and conditionals. Valid readings: 22.1, 24.5, 25.0. Average = (2
 * Questions 5, 10, and 14 are especially important for **programming-based Quiz 1**
 * Review [Week 4 Python chapters](./README.md#python-for-beginners--chapter-index) if any concepts are unclear
 * Quiz 1 also covers IoT concepts (Week 1) and Node-RED (Week 3)—review those materials as well
+* **Quiz 1 is held in Week 5**—see [Week 5 Quiz 1 materials](../Week05/Quiz-01/) for details and scoring policy

@@ -1,6 +1,6 @@
-# Week 4: Python Programming for Beginners & Quiz 1
+# Week 4: Python Programming for Beginners
 
-> Self-study Python chapters and Quiz 1 assessment.
+> Self-study Python chapters and Quiz 1 preparation. **Quiz 1 is held in Week 5**—see [Week 5 Quiz 1 materials](../Week05/Quiz-01/) for details and scoring policy.
 
 ---
 
@@ -23,7 +23,7 @@ Python gave you **readable code** for data handling, **modular logic** with func
 **Week 4** serves two purposes:
 
 1. **Python self-study** – Hands-on chapters for beginners (Ch01–Ch13)
-2. **Quiz 1** – Assessment of IoT fundamentals and basic programming
+2. **Quiz 1 preparation** – Quiz 1 is held in **Week 5**; use this week to prepare (see [Week 5 Quiz 1](../Week05/Quiz-01/) for quiz details and scoring policy)
 
 ---
 
@@ -113,14 +113,16 @@ Each chapter contains:
 
 ## Quiz 1 – IoT Fundamentals and Basic Programming
 
+**Quiz 1 is held in Week 5.** See [Week 5 Quiz 1 materials](../Week05/Quiz-01/) for full details, preparation checklist, and the **programming examination scoring policy**.
+
 Quiz 1 covers:
 - **Paper-based:** IoT concepts, architectures, communication models, Node-RED fundamentals
 - **Programming:** Basic Python coding, simple IoT data processing, Node-RED flow development with dashboard UI
 
-**Preparation:**
+**Preparation (complete before Week 5):**
 - Review Week 1–3 materials
 - Complete Week 3 workshops (Python and Node-RED)
-- Work through Python chapters Ch01–Ch11
+- Work through Python chapters Ch01–Ch13 (or at least Ch01–Ch11)
 - Complete [Week 4 Self-Test Quiz](./Week04-Test01.md) and [Practice Set](./Week04-Test02.md)
 - Complete Week 3 self-assessment tests
 
@@ -131,4 +133,4 @@ Quiz 1 covers:
 - [Course Outline](../Outline.md)
 - [Week 2 Materials](../Week02/)
 - [Week 3 Materials](../Week03/)
-- [Week 5 Materials](../Week05/)
+- [Week 5 Quiz 1](../Week05/Quiz-01/) – Preparation checklist and scoring policy
