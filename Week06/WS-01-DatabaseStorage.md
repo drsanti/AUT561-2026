@@ -11,6 +11,10 @@ Store simulated sensor data from MQTT topics into a **SQLite** database using Py
 
 ---
 
+> ⚠️ **Warning**: Do not use special characters or spaces in your directory and file names. These can cause issues with terminal commands and build tools. Stick to alphanumeric characters, hyphens (`-`), or underscores (`_`).
+
+---
+
 ## Python environment
 
 **Use a Python virtual environment** for all Python work in this workshop. This keeps dependencies (e.g. `sqlalchemy`, `paho-mqtt`) isolated.
