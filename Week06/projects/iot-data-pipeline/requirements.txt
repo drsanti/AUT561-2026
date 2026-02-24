@@ -1,0 +1,4 @@
+sqlalchemy
+paho-mqtt
+pandas
+plotly
