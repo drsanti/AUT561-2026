@@ -45,7 +45,7 @@ Each quiz consists of **two parts**:
 
 * **Quiz 1:** Basic knowledge and basic programming
 * **Quiz 2:** IoT Data Storage, Processing, and Visualization
-* **Quiz 3:** Full-Stack & Intelligent IoT Integration
+* **Quiz 3:** Embedded & IoT Systems Integration
 
 ---
 

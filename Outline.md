@@ -312,10 +312,10 @@ This course is structured into three progressive phases, each increasing in syst
 * **Learning Focus:** Node-RED, MQTT, database operations, and Python data processing
 * **Assessment:** **Quiz 2** (Week 8) – 25%
 
-### **Phase 3: Hardware-Integrated Full-Stack Applications** (Weeks 9–13)
+### **Phase 3: Embedded & IoT Programming using PSoC 6** (Weeks 9–12)
 
-* **Learning Focus:** Hardware sensor reading, digital twins, AI/ML integration, and end-to-end full-stack development
-* **Assessment:** **Quiz 3** (Week 14) – 35%
+* **Learning Focus:** Hardware sensor reading, digital twins, and AI/ML integration using PSoC 6 MCU
+* **Assessment:** **Quiz 3** (Week 13) – 35%
 
 **Continuous Assessment:** Assignments throughout the semester – 20%
 

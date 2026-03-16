@@ -52,12 +52,11 @@ Upon successful completion of this course, students will be able to:
 - **[Week 6: IoT Data Storage, Processing, and Visualization](./Week06/)** - Databases (SQL/Time-series), Python data processing (Pandas/Numpy), and Dashboard visualization
 - **[Week 7: IoT Data Storage, Processing, and Visualization (Cont.)](./Week07/)** - Continuation of database operations and real-time data processing
 - **[Week 8: Quiz 2 – IoT Data Storage, Processing, and Visualization](./Week08/)** - Assessment on data storage, processing, and system integration
-- **[Week 9: Sensor Fusion & MQTT](./Week09/)** - Hardware reading, sensor fusion, JSON formatting, and real-time MQTT exchange
-- **[Week 10: IoT to Digital Twin](./Week10/)** - Virtual representation and bidirectional synchronization with VS Code
-- **[Week 11: Backend Data Processing](./Week11/)** - Building Python backend services and integrating with Node-RED pipelines
-- **[Week 12: AI/ML Integration](./Week12/)** - Applying pattern recognition and anomaly detection to IoT data streams
-- **[Week 13: Complete System Integration](./Week13/)** - End-to-end full-stack integration and end-to-end security
-- **[Week 14: Quiz 3 – Final Assessment](./Week14/)** - Complete IoT application development and system integration
+- **[Week 9: Embedded & IoT Programming using PSoC 6](./Week09/)** - Hardware reading, sensor fusion, JSON formatting, and real-time MQTT exchange
+- **[Week 10: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week10/)** - Virtual representation and bidirectional synchronization with VS Code
+- **[Week 11: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week11/)** - Building Python backend services and integrating with Node-RED pipelines
+- **[Week 12: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week12/)** - Applying pattern recognition and anomaly detection to IoT data streams
+- **[Week 13: Quiz 3 – Embedded & IoT Systems Integration](./Week13/)** - Complete IoT application development and system integration (based on Weeks 09-12)
 
 ---
 
@@ -175,8 +174,8 @@ To successfully participate in this course, students must have access to:
 | 5 | Simulated IoT (Node-RED, MQTT) & **Quiz 1** | **Quiz 1 (20%)** + Learn |
 | 6-7 | IoT Data Storage, Processing, and Visualization | Learn & Practice |
 | 8 | **Quiz 2** – IoT Data Storage, Processing, and Visualization | **Quiz 2 (25%)** |
-| 9-13 | Hardware Integration, Digital Twin, and AI/ML | Learn & Practice |
-| 14 | **Quiz 3** – Full-Stack & Intelligent IoT Integration | **Quiz 3 (35%)** |
+| 9-12 | Embedded & IoT Programming using PSoC 6 | Learn & Practice |
+| 13 | **Quiz 3** – Embedded & IoT Systems Integration | **Quiz 3 (35%)** |
 
 Note: another 20% of the grade is from assignments.
 
