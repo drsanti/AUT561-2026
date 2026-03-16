@@ -289,12 +289,11 @@
 
 ---
 
-## **Week 14: Quiz 3 – Control and Monitoring IoT Applications**
+## **Week 14: Quiz 3 – Full-Stack & Intelligent IoT Integration**
 
-* **Quiz 3: Control and Monitoring Application Development**
-
-  * Paper-based (handwritten): System architecture, integration strategies, and intelligent IoT concepts
-  * Programming: Complete IoT application development and system integration
+* **Quiz 3: Full-Stack & Intelligent IoT Integration**
+  * Paper-based (handwritten): System architecture, hardware integration, digital twin concepts, and AI/ML strategies
+  * Programming: Complete hardware-to-cloud IoT application development and system integration
 
 ---
 
@@ -313,9 +312,9 @@ This course is structured into three progressive phases, each increasing in syst
 * **Learning Focus:** Node-RED, MQTT, database operations, and Python data processing
 * **Assessment:** **Quiz 2** (Week 8) – 25%
 
-### **Phase 3: Full-Stack and Intelligent IoT Applications** (Weeks 9–13)
+### **Phase 3: Hardware-Integrated Full-Stack Applications** (Weeks 9–13)
 
-* **Learning Focus:** Full-stack development, mobile applications, AI integration, and system-level design
+* **Learning Focus:** Hardware sensor reading, digital twins, AI/ML integration, and end-to-end full-stack development
 * **Assessment:** **Quiz 3** (Week 14) – 35%
 
 **Continuous Assessment:** Assignments throughout the semester – 20%

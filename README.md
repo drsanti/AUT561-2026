@@ -1,6 +1,6 @@
 # AUT561: Internet-of-Things Technologies
 
-> This course introduces the principles and applications of **Internet-of-Things (IoT) technologies** through **three progressive architecture models**: (1) **Simulated IoT Systems** using Docker, Node-RED, and MQTT for foundational concepts; (2) **Hardware-Based IoT Systems** with PSoC 6 MCU and embedded programming; and (3) **Full-Stack IoT Applications** integrating mobile apps, server-side processing, and AI/ML capabilities. Students will gain both **theoretical knowledge** and **practical programming skills**, progressing from simulation to real hardware implementation and advanced full-stack development with intelligent data processing.
+> This course introduces the principles and applications of **Internet-of-Things (IoT) technologies** through **three progressive architecture models**: (1) **Simulated IoT Systems** for foundational concepts; (2) **Data-Driven IoT Systems** focusing on storage, processing, and visualization; and (3) **Hardware-Integrated Full-Stack Applications** using PSoC 6 MCU, digital twins, and AI/ML. Students will gain both **theoretical knowledge** and **practical programming skills**, progressing from software simulation to complex data management and real hardware implementation.
 
 ---
 
@@ -95,8 +95,8 @@ Each quiz consists of **two parts**:
 
 **Quiz Topics:**
 - **Quiz 1:** Basic knowledge and basic programming (IoT fundamentals, Python, Node-RED)
-- **Quiz 2:** Frontend and backend programming (Hardware integration, MQTT, Node-RED, embedded systems)
-- **Quiz 3:** Control and monitoring application development (Complete IoT system integration)
+- **Quiz 2:** IoT Data and Backend Systems (Databases, Data Processing, MQTT Integration)
+- **Quiz 3:** Full-Stack & Intelligent IoT Integration (Hardware, Digital Twin, AI/ML)
 
 ---
 
@@ -173,10 +173,10 @@ To successfully participate in this course, students must have access to:
 | 3 | Programming Foundations and Node-RED Introduction | Learn & Practice |
 | 4 | Python for Beginners (Ch01–Ch13) | Self-study |
 | 5 | Simulated IoT (Node-RED, MQTT) & **Quiz 1** | **Quiz 1 (20%)** + Learn |
-| 6-7 | Data Processing and Hardware Integration | Learn & Practice |
-| 8 | **Quiz 2** – Hardware Integration and IoT Applications | **Quiz 2 (25%)** |
-| 9-13 | Sensor Fusion, Digital Twin, Backend Processing, AI/ML, and System Integration | Learn & Practice |
-| 14 | **Quiz 3** – Control and Monitoring IoT Applications | **Quiz 3 (35%)** |
+| 6-7 | IoT Data Storage, Processing, and Visualization | Learn & Practice |
+| 8 | **Quiz 2** – IoT Data and Backend Systems | **Quiz 2 (25%)** |
+| 9-13 | Hardware Integration, Digital Twin, and AI/ML | Learn & Practice |
+| 14 | **Quiz 3** – Full-Stack & Intelligent IoT Integration | **Quiz 3 (35%)** |
 
 Note: another 20% of the grade is from assignments.
 

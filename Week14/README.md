@@ -1,6 +1,6 @@
-# Week 14: Quiz 3 – Control and Monitoring IoT Applications
+# Week 14: Quiz 3 – Full-Stack & Intelligent IoT Integration
 
-Welcome to the final assessment! **Quiz 3** covers the entire Phase 3: Full-Stack and Intelligent IoT Applications.
+Welcome to the final assessment! **Quiz 3** covers the entire Phase 3: Hardware-Integrated Full-Stack Applications.
 
 ## Quiz 3 Structure
 The assessment is divided into two parts:
