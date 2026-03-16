@@ -136,7 +136,7 @@
 
 ---
 
-## **Week 8: Quiz 2 – IoT Data and Backend Systems**
+## **Week 8: Quiz 2 – IoT Data Storage, Processing, and Visualization**
 
 * **Quiz 2: Frontend and Backend Programming**
   * Paper-based (handwritten): IoT architectures, MQTT communication, Node-RED integration, and database concepts

@@ -1,4 +1,4 @@
-# Week 08: Quiz 2 – IoT Data and Backend Systems
+# Week 08: Quiz 2 – IoT Data Storage, Processing, and Visualization
 
 This week is dedicated to **Quiz 2**, which evaluates your understanding of **Phase 2: Data Systems and Backend Integration**.
 
