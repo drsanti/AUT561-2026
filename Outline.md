@@ -144,7 +144,7 @@
 
 ---
 
-## **Week 9: Sensor Reading, Sensor Fusion, and Real-Time Data Exchange via MQTT**
+## **Week 9: Embedded & IoT Programming using PSoC 6**
 
 * **Sensor reading and data acquisition**:
 
@@ -175,7 +175,7 @@
 
 ---
 
-## **Week 10: IoT Devices to Digital Twin Integration**
+## **Week 10: Embedded & IoT Programming using PSoC 6 (Continued)**
 
 * Introduction to **Digital Twin** concepts and applications in IoT systems
 * Overview of **Digital Twin** as a virtual representation of physical devices
@@ -200,7 +200,7 @@
 
 ---
 
-## **Week 11: Backend Data Processing and Integration with Node-RED and Python**
+## **Week 11: Embedded & IoT Programming using PSoC 6 (Continued)**
 
 * **Processing sensor fusion data streams**:
 
@@ -230,7 +230,7 @@
 
 ---
 
-## **Week 12: AI/ML Integration with Sensor Fusion and Digital Twin**
+## **Week 12: Embedded & IoT Programming using PSoC 6 (Continued)**
 
 * **AI/ML for sensor fusion data**:
 
