@@ -123,24 +123,24 @@
 
 ---
 
-## **Week 7: Hardware-Based IoT Systems and Embedded Devices**
+## **Week 7: IoT Data Storage, Processing, and Visualization (Continued)**
 
-* Introduction to **Model 2: Hardware-Based IoT Systems** and transition from simulation to physical devices
-* Overview of **PSoC 6 MCU** architecture and fundamental **embedded system concepts**
-* Embedded firmware architecture, development workflow, and build process
-* Using **ModusToolbox** for firmware configuration, coding, and debugging
-* **Sensor and actuator interfacing** principles, including digital and analog I/O
-* Basic techniques for **testing and debugging embedded IoT devices**
-* **Hands-on:** Setting up PSoC 6 hardware and developing basic embedded firmware for sensor interaction
+* **Continued exploration of database technologies** for IoT applications
+* **Advanced Python for database operations**:
+  * Complex queries and data transformation
+  * Managing high-frequency data ingestion
+* **Real-time dashboard optimization**:
+  * Improving UI response and data throughput
+  * Finalizing system monitoring and debugging tools
+* **Hands-on:** Refining the storage, processing, and visualization flows from Week 06
 
 ---
 
-## **Week 8: Quiz 2 – Hardware Integration and IoT Applications**
+## **Week 8: Quiz 2 – IoT Data and Backend Systems**
 
 * **Quiz 2: Frontend and Backend Programming**
-
-  * Paper-based (handwritten): IoT architectures, MQTT communication, Node-RED integration, and embedded system concepts
-  * Programming: Integration of hardware devices with IoT systems and real-time data handling
+  * Paper-based (handwritten): IoT architectures, MQTT communication, Node-RED integration, and database concepts
+  * Programming: Integration of simulated devices with IoT backend systems and real-time data handling
 
 ---
 
@@ -302,15 +302,15 @@
 
 This course is structured into three progressive phases, each increasing in system complexity and integration depth.
 
-### **Phase 1: Foundations and Simulation** (Weeks 1–4)
+### **Phase 1: Foundations and Simulation** (Weeks 1–4) ✅ (Done)
 
 * **Learning Focus:** IoT fundamentals, communication models, and basic programming
 * **Resources:** Week 3 workshops; Week 4 Python for Beginners chapters (Ch01–Ch13)
 * **Assessment:** **Quiz 1** (Week 5) – 20%
 
-### **Phase 2: Hardware-Based IoT Systems** (Weeks 5–7)
+### **Phase 2: Data Systems and Backend Integration** (Weeks 5–7) ✅ (Done)
 
-* **Learning Focus:** Node-RED, MQTT, data handling, and embedded device integration
+* **Learning Focus:** Node-RED, MQTT, database operations, and Python data processing
 * **Assessment:** **Quiz 2** (Week 8) – 25%
 
 ### **Phase 3: Full-Stack and Intelligent IoT Applications** (Weeks 9–13)
@@ -322,6 +322,6 @@ This course is structured into three progressive phases, each increasing in syst
 
 ---
 
-**Last Updated:** 2026-02-03
+**Last Updated:** 2026-03-16
 
 ---

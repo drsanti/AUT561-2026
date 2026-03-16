@@ -49,6 +49,15 @@ Upon successful completion of this course, students will be able to:
 - **[Week 3: Programming Foundations and Node-RED Introduction](./Week03/)** - Python fundamentals and Node-RED flow-based programming
 - **[Week 4: Python for Beginners](./Week04/)** - Self-study chapters (Ch01–Ch13) and Quiz 1 preparation
 - **[Week 5: Simulated IoT & Quiz 1](./Week05/Quiz-01/)** - Node-RED, MQTT, Python MQTT clients, and **Quiz 1** (see [Quiz 1 preparation](./Week05/Quiz-01/Quiz1-Prepare.md) for checklist and [Scoring Policy](./Week05/Quiz-01/Scoring-Policy.md))
+- **[Week 6: IoT Data Storage, Processing, and Visualization](./Week06/)** - Databases (SQL/Time-series), Python data processing (Pandas/Numpy), and Dashboard visualization
+- **[Week 7: IoT Data Storage, Processing, and Visualization (Cont.)](./Week07/)** - Continuation of database operations and real-time data processing
+- **[Week 8: Quiz 2 – IoT Data and Backend Systems](./Week08/)** - Assessment on data storage, processing, and system integration
+- **[Week 9: Sensor Fusion & MQTT](./Week09/)** - Hardware reading, sensor fusion, JSON formatting, and real-time MQTT exchange
+- **[Week 10: IoT to Digital Twin](./Week10/)** - Virtual representation and bidirectional synchronization with VS Code
+- **[Week 11: Backend Data Processing](./Week11/)** - Building Python backend services and integrating with Node-RED pipelines
+- **[Week 12: AI/ML Integration](./Week12/)** - Applying pattern recognition and anomaly detection to IoT data streams
+- **[Week 13: Complete System Integration](./Week13/)** - End-to-end full-stack integration and end-to-end security
+- **[Week 14: Quiz 3 – Final Assessment](./Week14/)** - Complete IoT application development and system integration
 
 ---
 
@@ -112,12 +121,11 @@ This course is structured in **three progressive phases**:
 - Week 4 Python for Beginners chapters (Ch01–Ch13) for extra practice
 - **Assessment:** Quiz 1 (Week 5) – 20%
 
-### Phase 2: Hardware-Based IoT Systems (Weeks 5–7)
+### Phase 2: Data Systems and Backend Integration (Weeks 5–7)
 - Simulated IoT systems using Node-RED and MQTT
 - Python MQTT client programming
 - IoT data storage, processing, and visualization with Python
-- Hardware-based IoT systems with PSoC 6 MCU
-- Embedded firmware development with ModusToolbox
+- Database operations and real-time dashboard optimization
 - **Assessment:** Quiz 2 (Week 8) – 25%
 
 ### Phase 3: Full-Stack and Intelligent IoT Applications (Weeks 9–13)
@@ -200,6 +208,15 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 - [Week 3 Materials](./Week03/)
 - [Week 4 Materials](./Week04/)
 - [Week 5 Quiz 1 Materials](./Week05/Quiz-01/) – Quiz 1 preparation, scoring policy
+- [Week 6 Materials](./Week06/)
+- [Week 7 Materials](./Week07/)
+- [Week 8 Quiz 2 Index](./Week08/)
+- [Week 9 Materials](./Week09/)
+- [Week 10 Materials](./Week10/)
+- [Week 11 Materials](./Week11/)
+- [Week 12 Materials](./Week12/)
+- [Week 13 Materials](./Week13/)
+- [Week 14 Quiz 3 Index](./Week14/)
 
 ---
 
@@ -217,6 +234,6 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 
 ---
 
-**Last Updated:** 2026-02-03
+**Last Updated:** 2026-03-16
 
 ---
