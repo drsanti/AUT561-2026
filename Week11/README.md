@@ -1,15 +1,15 @@
-# Week 11: Backend Data Processing and Integration
+# Week 11: Embedded & IoT Programming using PSoC 6 (Cont.)
 
-This week focuses on building robust **Python and Node-RED services** to process the complex sensor fusion and Digital Twin data streams.
+This week focuses on the **Backend Integration** of our embedded systems.
 
-## Learning Objectives
-- **Data Stream Processing**: Parsing and analyzing JSON sensor fusion streams in Python.
-- **Backend Services**: Building Python services that aggregate and store MQTT data.
-- **Node-RED Pipelines**: Creating flows that bridge MQTT data with sophisticated dashboards and digital twin states.
+## Topics
+- **Python Backend Services**: Building robust services to handle PSoC 6 data.
+- **Node-RED Pipelines**: Designing efficient data flows between hardware and the cloud.
+- **Integration**: Connecting embedded devices with enterprise-level processing.
 
 ## Hands-on Workshop
-- Developing backend services to handle multi-source IoT data.
-- Correlating physical sensor data with virtual Digital Twin states in real-time.
+- Developing Python scripts to process MQTT streams from the MCU.
+- Integrating PSoC 6 sensor outputs with Node-RED dashboard logic.
 
 ---
 **Course:** AUT561: Internet-of-Things Technologies

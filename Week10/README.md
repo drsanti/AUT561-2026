@@ -1,15 +1,15 @@
-# Week 10: IoT Devices to Digital Twin Integration
+# Week 10: Embedded & IoT Programming using PSoC 6 (Cont.)
 
-Welcome to Week 10! This week we explore the concept of the **Digital Twin**—a virtual representation of our physical PSoC 6 devices.
+This week continues our work with the PSoC 6, focusing on **Digital Twin** integration.
 
-## Learning Objectives
-- **Digital Twin Concepts**: Understanding virtual representation and bidirectional synchronization.
-- **VS Code Extension**: Using the Digital Twin extension to visualize robot arms and machines.
-- **MCU to Twin Communication**: Developing firmware to sync physical states with virtual models.
+## Topics
+- **Virtual Representation**: Understanding Digital Twin concepts.
+- **Bidirectional Synchronization**: Linking physical states with virtual models.
+- **VS Code Extension**: Using tools to visualize and control IoT devices.
 
 ## Hands-on Workshop
-- Establishing data flows between the PSoC 6 and the VS Code Digital Twin model.
-- Implementing bidirectional control (Sensor data to Twin, commands from Twin to MCU).
+- Establishing two-way communication between the PSoC 6 and a Digital Twin model.
+- Synchronizing sensor data with virtual machine states.
 
 ---
 **Course:** AUT561: Internet-of-Things Technologies

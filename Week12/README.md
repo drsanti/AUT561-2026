@@ -1,12 +1,15 @@
-# Week 12: AI/ML Integration with Sensor Fusion and Digital Twin
+# Week 12: Embedded & IoT Programming using PSoC 6 (Cont.)
 
-Welcome to Week 12! We now integrate **Artificial Intelligence** and **Machine Learning** to add intelligent decision-making to our IoT systems.
+In the final learning week, we integrate **AI/ML** capabilities into our PSoC 6 workflows.
 
-## Learning Objectives
-- **AI/ML for IoT**: Applying pattern recognition and anomaly detection to sensor streams.
-- **Edge Analytics**: Using Python libraries (scikit-learn, TensorFlow Lite) for local inference.
-- **Predictive Twin**: Leveraging historic Digital Twin data for predictive maintenance.
-- **Intelligent Control**: Generating automated control commands based on AI analysis.
+## Topics
+- **AI/ML Integration**: Applying pattern recognition to IoT data streams.
+- **Anomaly Detection**: Identifying issues using sensor fusion data.
+- **Edge Intelligence**: Implementing intelligent logic on the backend for device control.
+
+## Hands-on Workshop
+- Using Python ML libraries to analyze data from the hardware.
+- Creating automated control loops based on AI-driven insights.
 
 ---
 **Course:** AUT561: Internet-of-Things Technologies

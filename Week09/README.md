@@ -1,16 +1,16 @@
-# Week 09: Sensor Reading, Sensor Fusion, and Real-Time Data Exchange via MQTT
+# Week 09: Embedded & IoT Programming using PSoC 6
 
-Welcome to Week 09! As we enter **Phase 3**, we shift our focus to hardware integration with the PSoC 6 MCU and real-time data streaming.
+Welcome to Phase 3! This week, we begin our focus on hardware integration using the **PSoC 6 MCU**.
 
-## Learning Objectives
-- **Sensor Reading**: Reading data from multiple sensors on the **PSoC 6 MCU**.
-- **Sensor Fusion**: Combining data from multiple sources for improved accuracy.
-- **JSON Formatting**: Structuring payloads for real-time IoT exchange.
-- **Real-Time MQTT**: Publishing sensor streams as JSON over MQTT.
+## Topics
+- **Hardware Reading**: Interfacing with physical sensors.
+- **Sensor Fusion**: Combining data from multiple sources.
+- **JSON Formatting**: Structuring sensor data for IoT payload exchange.
+- **Real-Time MQTT**: Publishing data streams to the cloud.
 
 ## Hands-on Workshop
-- Implementing sensor fusion and JSON encoding on the PSoC 6.
-- Streaming real-time environmental data to the MQTT broker.
+- Using ModusToolbox to read environmental sensors.
+- Encoding data in JSON and publishing via MQTT.
 
 ---
 **Course:** AUT561: Internet-of-Things Technologies
