@@ -56,7 +56,7 @@ Upon successful completion of this course, students will be able to:
 - **[Week 10: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week10/)** - Virtual representation and bidirectional synchronization with VS Code
 - **[Week 11: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week11/)** - Building Python backend services and integrating with Node-RED pipelines
 - **[Week 12: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week12/)** - Applying pattern recognition and anomaly detection to IoT data streams
-- **[Week 13: Quiz 3 – Embedded & IoT Systems Integration](./Week13/)** - Complete IoT application development and system integration (based on Weeks 09-12)
+- **[Week 13: Quiz 3 – Embedded & IoT Systems Integration](./Week13/)** - Final assessment covering hardware integration, digital twins, and AI/ML (Weeks 09-12 focus)
 
 ---
 
@@ -95,7 +95,7 @@ Each quiz consists of **two parts**:
 **Quiz Topics:**
 - **Quiz 1:** Basic knowledge and basic programming (IoT fundamentals, Python, Node-RED)
 - **Quiz 2:** IoT Data Storage, Processing, and Visualization (Databases, Data Processing, MQTT Integration)
-- **Quiz 3:** Full-Stack & Intelligent IoT Integration (Hardware, Digital Twin, AI/ML)
+- **Quiz 3:** Embedded & IoT Systems Integration (Hardware, Digital Twin, AI/ML)
 
 ---
 
@@ -127,13 +127,8 @@ This course is structured in **three progressive phases**:
 - Database operations and real-time dashboard optimization
 - **Assessment:** Quiz 2 (Week 8) – 25%
 
-### Phase 3: Full-Stack and Intelligent IoT Applications (Weeks 9–13)
-- Sensor reading, sensor fusion, and real-time MQTT data exchange
-- IoT devices to Digital Twin integration
-- Backend data processing with Python and Node-RED
-- AI/ML integration with sensor fusion and digital twin
-- Complete IoT system integration (MCU sensors to Digital Twin to UI)
-- **Assessment:** Quiz 3 (Week 14) – 35%
+### Phase 3: Embedded & IoT Programming using PSoC 6 (Weeks 9–12)
+- **Assessment:** Quiz 3 (Week 13) – 35%
 
 **Continuous Assessment:** Assignments throughout the semester – 20%
 
@@ -214,8 +209,7 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 - [Week 10 Materials](./Week10/)
 - [Week 11 Materials](./Week11/)
 - [Week 12 Materials](./Week12/)
-- [Week 13 Materials](./Week13/)
-- [Week 14 Quiz 3 Index](./Week14/)
+- [Week 13 Quiz 3 Materials](./Week13/)
 
 ---
 

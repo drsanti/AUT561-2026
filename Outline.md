@@ -260,40 +260,11 @@
 
 ---
 
-## **Week 13: Complete IoT System Integration: MCU Sensors to Digital Twin to User Interface**
+## **Week 13: Quiz 3 – Embedded & IoT Systems Integration**
 
-* **End-to-end system architecture**:
-
-  * Complete data flow: **PSoC 6 MCU sensors** → **Sensor fusion** → **JSON/MQTT** → **Python backend** → **Node-RED** → **Digital Twin** → **User interfaces**
-  * System integration architecture and design patterns
-  * Data flow synchronization across all system components
-* **Full-stack integration**:
-
-  * Integrating MCU firmware with MQTT broker
-  * Connecting Python backend services with Node-RED flows
-  * Synchronizing digital twin with physical device state
-  * Building user interfaces (web/mobile) for monitoring and control
-* **System testing and validation**:
-
-  * Testing sensor fusion accuracy and reliability
-  * Validating MQTT data transmission and reception
-  * Testing digital twin synchronization with physical device
-  * Performance evaluation and optimization
-* **Security and reliability**:
-
-  * Security fundamentals for IoT systems
-  * Secure MQTT communication (authentication, encryption)
-  * Data privacy and protection in sensor fusion systems
-  * Error handling and system resilience
-* **Hands-on:** Developing and integrating a complete IoT system from MCU sensors through sensor fusion, MQTT, Python backend, Node-RED, digital twin, to user interfaces with full bidirectional control
-
----
-
-## **Week 14: Quiz 3 – Full-Stack & Intelligent IoT Integration**
-
-* **Quiz 3: Full-Stack & Intelligent IoT Integration**
+* **Quiz 3: Embedded & IoT Systems Integration**
   * Paper-based (handwritten): System architecture, hardware integration, digital twin concepts, and AI/ML strategies
-  * Programming: Complete hardware-to-cloud IoT application development and system integration
+  * Programming: Complete hardware-to-cloud IoT application development and system integration (Weeks 09–12 focus)
 
 ---
 
