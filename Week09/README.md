@@ -8,9 +8,18 @@ Welcome to Phase 3! This week, we begin our focus on hardware integration using 
 - **JSON Formatting**: Structuring sensor data for IoT payload exchange.
 - **Real-Time MQTT**: Publishing data streams to the cloud.
 
-## Hands-on Workshop
-- Using ModusToolbox to read environmental sensors.
-- Encoding data in JSON and publishing via MQTT.
+## Hands-on Workshop: PSoC 6 MQTT Sensor Node
+This week's practical section focuses on building a real-time MQTT sensor node using the PSoC 6.
+
+**Repository:** [ps6-mqtt-sensors](https://github.com/drsanti/ps6-mqtt-sensors)
+
+### Learning Objectives
+1. **ModusToolbox**: Master the build and programming workflow for PSoC 6.
+2. **Sensor Interfacing**: Read data from the onboard BMI270 (IMU) and BMM350 (Magnetometer).
+3. **Embedded Networking**: Configure Wi-Fi and MQTT clients in a real-time operating system (FreeRTOS) environment.
+4. **Data Formatting**: Publish sensor telemetry in a structured format.
+
+---
 
 ## Hardware Requirement
 > [!IMPORTANT]
@@ -21,4 +30,4 @@ Welcome to Phase 3! This week, we begin our focus on hardware integration using 
 
 ---
 **Course:** AUT561: Internet-of-Things Technologies
-**Last Updated:** 2026-03-16
+**Last Updated:** 2026-03-17
