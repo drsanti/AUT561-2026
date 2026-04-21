@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This course introduces the principles and applications of **Internet-of-Things (IoT) technologies** through **three progressive architecture models**: (1) **Simulated IoT Systems** for foundational concepts; (2) **Data-Driven IoT Systems** focusing on storage, processing, and visualization; and (3) **Hardware-Integrated Full-Stack Applications** using PSoC 6 MCU, digital twins, and AI/ML. Students will gain both **theoretical knowledge** and **practical programming skills**, progressing from software simulation to complex data management and real hardware implementation.
+This course introduces **Internet-of-Things (IoT) technologies** in **three phases** (see [Course Outline](./Outline.md)): (1) **Foundations and Simulation**; (2) **Data Systems and Backend Integration**; (3) **Embedded & IoT Programming using PSoC 6**—sensor telemetry (JSON, MQTT), firmware tooling (including **Bitstream**), broker and data-path integration, and **UI connectivity** for end-to-end systems. Students gain **theoretical knowledge** and **practical programming skills** from simulation through data pipelines to hardware and integrated frontends.
 
 The course is delivered using a **hybrid learning format**, combining **onsite** and **online** instruction. Each session includes **lectures** alongside **hands-on programming activities**.
 
@@ -45,7 +45,7 @@ Each quiz consists of **two parts**:
 
 * **Quiz 1:** Basic knowledge and basic programming
 * **Quiz 2:** IoT Data Storage, Processing, and Visualization
-* **Quiz 3:** Embedded & IoT Systems Integration
+* **Quiz 3:** Embedded & IoT Systems Integration — paper: embedded system architecture, hardware integration, MQTT and connectivity, UI application integration for IoT; programming: end-to-end application (embedded firmware, broker/data path, UI), Weeks 09–12 (see [Course Outline](./Outline.md))
 
 ---
 
@@ -59,10 +59,11 @@ To successfully participate in this course, students must have access to the fol
 * **Docker Desktop** – Containerization platform
 * **Node-RED** – Visual flow-based programming for IoT applications
 * **MQTT Broker** – Message queuing telemetry transport protocol (e.g., Mosquitto, HiveMQ)
-* **PSoC 6 Development Kit** – Hardware development board (for Model 2 and Model 3)
-* **ModusToolbox** – Integrated development environment for PSoC devices (for Model 2 and Model 3)
+* **PSoC 6 Development Kit** – Hardware development board (embedded phase, Weeks 9–12)
+* **ModusToolbox** – Integrated development environment for PSoC devices (embedded phase)
 * **Database Software** – Time-series database (e.g., InfluxDB) or relational database (e.g., PostgreSQL, MySQL)
-* **Mobile Development Tools** – React Native, Flutter, or native development environment (for Model 3)
+* **Git** and **Node.js (v20+)** – For Bitstream workflow and React frontend (Weeks 11–12; see [Course Outline](./Outline.md))
+* **Bitstream CLI** (`@ternion/bitstream`) – Optional global install; see [bitstream-app](https://github.com/drsanti/bitstream-app) repository and tutorial
 
 ---
 
@@ -85,7 +86,7 @@ To successfully participate in this course, students must have access to the fol
 
 This course covers the principles and applications of **Internet-of-Things (IoT) technologies** through a progressive three-model learning approach. Topics include **Internet networks and wireless communication protocols**, **client-server systems**, **MQTT and other IoT communication protocols**, **operations of IoT devices**, **database systems for IoT data storage**, **real-time data processing and visualization**, and **designing and applying IoT systems in industrial automation**.
 
-The course progresses through three architecture models: (1) **Simulated IoT Systems** focusing on foundational concepts using containerized environments, Node-RED, and MQTT; (2) **Data-Driven IoT Systems** focusing on data storage, real-time processing, and visualization; and (3) **Hardware-Integrated Full-Stack Applications** introducing embedded systems programming with PSoC 6 microcontrollers, sensor fusion, digital twins, and AI/ML integration. Emphasis is placed on **hands-on implementation**, **real-world applications**, and **scalable system design** for industrial and automation environments.
+The course progresses in three phases aligned with the [Course Outline](./Outline.md): (1) **Foundations and Simulation**; (2) **Data Systems and Backend Integration**—MQTT, databases, Python processing and visualization; (3) **Embedded & IoT Programming using PSoC 6**—PSoC 6 sensors and MQTT/JSON telemetry, digital twin concepts and VS Code extension (Week 10), Bitstream-based firmware and React UI with broker and simulator workflows (Weeks 11–12), and end-to-end integration. Emphasis is on **hands-on implementation**, **real-world applications**, and **scalable system design** for industrial and automation environments.
 
 ---
 
@@ -96,10 +97,10 @@ Upon successful completion of this course, students will be able to:
 1. **Understand** the operations of the **internet and Internet-of-Things** systems, including communication protocols, network architectures, and device operations.
 2. **Explain** the **database systems, data processing, and data visualization** techniques used in Internet-of-Things applications, including time-series data management and real-time analytics.
 3. **Develop Internet-of-Things applications** using **standard software tools** such as Node-RED, MQTT brokers, containerized environments, and embedded development platforms.
-4. **Design and apply** the **Internet-of-Things for industrial automation systems** appropriately, integrating hardware devices, communication protocols, data processing, and intelligent decision-making capabilities.
+4. **Design and apply** the **Internet-of-Things for industrial automation systems** appropriately, integrating hardware devices, communication protocols, data processing, and application-layer connectivity (including dashboards and embedded-to-UI data paths).
 
 ---
 
-**Last Updated:** 2026-03-16
+**Last Updated:** 2026-04-21
 
 ---

@@ -1,6 +1,6 @@
 # Week 09: Embedded & IoT Programming using PSoC 6
 
-Welcome to Phase 3! This week, we begin our focus on hardware integration using the **PSoC 6 MCU**.
+Welcome to Phase 3! This week, we begin our focus on hardware integration using the **PSoC 6 MCU**. Topics align with [Course Outline](../Outline.md) Week 9.
 
 ## Topics
 - **Hardware Reading**: Interfacing with physical sensors.
@@ -30,4 +30,4 @@ This week's practical section focuses on building a real-time MQTT sensor node u
 
 ---
 **Course:** AUT561: Internet-of-Things Technologies
-**Last Updated:** 2026-03-17
+**Last Updated:** 2026-04-21

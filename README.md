@@ -1,6 +1,6 @@
 # AUT561: Internet-of-Things Technologies
 
-> This course introduces the principles and applications of **Internet-of-Things (IoT) technologies** through **three progressive architecture models**: (1) **Simulated IoT Systems** for foundational concepts; (2) **Data-Driven IoT Systems** focusing on storage, processing, and visualization; and (3) **Hardware-Integrated Full-Stack Applications** using PSoC 6 MCU, digital twins, and AI/ML. Students will gain both **theoretical knowledge** and **practical programming skills**, progressing from software simulation to complex data management and real hardware implementation.
+> This course introduces the principles and applications of **Internet-of-Things (IoT) technologies** in **three phases**: (1) **Foundations and Simulation**—IoT concepts, Python, Node-RED, and tool setup; (2) **Data Systems and Backend Integration**—MQTT, databases, and Python processing and visualization; (3) **Embedded & IoT Programming using PSoC 6**—sensor telemetry (JSON, MQTT), firmware tooling and deployment (including **Bitstream**), broker and data-path integration, and **UI application connectivity** for end-to-end IoT systems. Students gain **theory** and **hands-on programming**, from simulation through data pipelines to hardware and integrated frontends.
 
 ---
 
@@ -11,6 +11,11 @@
 ---
 
 ![alt text](assets/cover.png)
+
+---
+
+> [!TIP]
+> If you have a **microcontroller board** and/or you want to learn **IoT application development** in a practical way, see the [**drsanti/bitstream-app**](https://github.com/drsanti/bitstream-app) repository.
 
 ---
 
@@ -33,7 +38,7 @@ Upon successful completion of this course, students will be able to:
 1. **Understand** the operations of the **internet and Internet-of-Things** systems, including communication protocols, network architectures, and device operations.
 2. **Explain** the **database systems, data processing, and data visualization** techniques used in Internet-of-Things applications, including time-series data management and real-time analytics.
 3. **Develop Internet-of-Things applications** using **standard software tools** such as Node-RED, MQTT brokers, containerized environments, and embedded development platforms.
-4. **Design and apply** the **Internet-of-Things for industrial automation systems** appropriately, integrating hardware devices, communication protocols, data processing, and intelligent decision-making capabilities.
+4. **Design and apply** the **Internet-of-Things for industrial automation systems** appropriately, integrating hardware devices, communication protocols, data processing, and application-layer connectivity (including dashboards and embedded-to-UI data paths).
 
 ---
 
@@ -53,10 +58,10 @@ Upon successful completion of this course, students will be able to:
 - **[Week 7: IoT Data Storage, Processing, and Visualization (Cont.)](./Week07/)** - Continuation of database operations and real-time data processing
 - **[Week 8: Quiz 2 – IoT Data Storage, Processing, and Visualization](./Week08/)** - Assessment on data storage, processing, and system integration
 - **[Week 9: Embedded & IoT Programming using PSoC 6](./Week09/)** - Hardware reading, sensor fusion, JSON formatting, and real-time MQTT exchange
-- **[Week 10: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week10/)** - Virtual representation and bidirectional synchronization with VS Code
-- **[Week 11: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week11/)** - Building Python backend services and integrating with Node-RED pipelines
-- **[Week 12: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week12/)** - Applying pattern recognition and anomaly detection to IoT data streams
-- **[Week 13: Quiz 3 – Embedded & IoT Systems Integration](./Week13/)** - Final assessment covering hardware integration, digital twins, and AI/ML (Weeks 09-12 focus)
+- **[Week 10: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week10/)** - Digital Twin concepts, VS Code extension, and bidirectional MCU–twin communication ([outline](./Outline.md))
+- **[Week 11: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week11/)** - Bitstream workspace: CLI, ModusToolbox firmware, and React frontend; init, build, and program the kit ([outline](./Outline.md))
+- **[Week 12: Embedded & IoT Programming using PSoC 6 (Cont.)](./Week12/)** - Embedded MQTT broker, MCU simulator, process lifecycle, and React dashboard with live telemetry ([outline](./Outline.md))
+- **[Week 13: Quiz 3 – Embedded & IoT Systems Integration](./Week13/)** - Embedded architecture, MQTT/connectivity, UI integration; end-to-end firmware, broker/data path, and UI (Weeks 09–12 focus) ([outline](./Outline.md))
 
 ---
 
@@ -68,11 +73,13 @@ This course uses the following technologies and tools:
 - **Node-RED** - Visual flow-based programming for IoT applications
 - **Docker Desktop** - Containerization platform
 - **MQTT Broker** - Message queuing telemetry transport protocol (e.g., Mosquitto, HiveMQ)
-- **Visual Studio Code** - Code editor with Digital Twin extension
+- **Visual Studio Code** - Code editor (Digital Twin extension used in Week 10 per [outline](./Outline.md))
 - **Database Software** - Time-series database (e.g., InfluxDB) or relational database (e.g., PostgreSQL, MySQL)
-- **AI/ML Libraries** - Python libraries for machine learning (scikit-learn, TensorFlow Lite, pandas, numpy)
+- **Python libraries** - e.g. pandas, numpy, matplotlib/plotly (data weeks); **paho-mqtt** where used
+- **Git** and **Node.js (v20+)** - For Bitstream workflow and React frontend (Weeks 11–12 per [outline](./Outline.md))
+- **Bitstream CLI** (`@ternion/bitstream`) - Workspace, firmware helpers, embedded broker, and simulator ([bitstream-app](https://github.com/drsanti/bitstream-app))
 - **ModusToolbox** - Integrated development environment for PSoC devices
-- **PSoC 6 Development Kit** - Hardware development board
+- **PSoC 6 Development Kit** - Hardware development board (e.g. CY8CKIT-062S2-AI in Bitstream materials)
 
 ---
 
@@ -95,7 +102,7 @@ Each quiz consists of **two parts**:
 **Quiz Topics:**
 - **Quiz 1:** Basic knowledge and basic programming (IoT fundamentals, Python, Node-RED)
 - **Quiz 2:** IoT Data Storage, Processing, and Visualization (Databases, Data Processing, MQTT Integration)
-- **Quiz 3:** Embedded & IoT Systems Integration (Hardware, Digital Twin, AI/ML)
+- **Quiz 3:** Embedded & IoT Systems Integration (embedded architecture, hardware integration, MQTT/connectivity, UI integration; programming: firmware, broker/data path, and UI)
 
 ---
 
@@ -128,6 +135,7 @@ This course is structured in **three progressive phases**:
 - **Assessment:** Quiz 2 (Week 8) – 25%
 
 ### Phase 3: Embedded & IoT Programming using PSoC 6 (Weeks 9–12)
+- **Learning focus:** PSoC 6 embedded IoT—sensor reading and MQTT/JSON telemetry, firmware tooling and deployment (including Bitstream), broker and data-path integration, and UI application connectivity for end-to-end IoT systems (see [Course Outline](./Outline.md))
 - **Assessment:** Quiz 3 (Week 13) – 35%
 
 **Continuous Assessment:** Assignments throughout the semester – 20%
@@ -138,7 +146,7 @@ This course is structured in **three progressive phases**:
 
 This course covers the principles and applications of **Internet-of-Things (IoT) technologies** through a progressive three-model learning approach. Topics include **Internet networks and wireless communication protocols**, **client-server systems**, **MQTT and other IoT communication protocols**, **operations of IoT devices**, **database systems for IoT data storage**, **real-time data processing and visualization**, and **designing and applying IoT systems in industrial automation**.
 
-The course progresses through three architecture models: (1) **Simulated IoT Systems** focusing on foundational concepts using containerized environments, Node-RED, and MQTT; (2) **Hardware-Based IoT Systems** introducing embedded systems programming with PSoC 6 microcontrollers, sensor integration, and real-time device communication; and (3) **Full-Stack IoT Applications** covering mobile app development, server-side processing, AI/ML integration, and complete end-to-end IoT solutions. Emphasis is placed on **hands-on implementation**, **real-world applications**, and **scalable system design** for industrial and automation environments.
+The course progresses in three phases aligned with the [Course Outline](./Outline.md): (1) **Foundations and Simulation**—IoT fundamentals, Python, Node-RED, dashboards, and environment setup; (2) **Data Systems and Backend Integration**—simulated devices, MQTT, databases, Python processing and visualization; (3) **Embedded & IoT Programming using PSoC 6**—on-device sensors, JSON/MQTT telemetry, digital twin lab (Week 10), Bitstream-based firmware and React UI with broker and simulator workflows (Weeks 11–12), and integrated end-to-end IoT applications. Emphasis is on **hands-on implementation**, **real-world applications**, and **scalable system design** for industrial and automation environments.
 
 ---
 
@@ -152,8 +160,9 @@ To successfully participate in this course, students must have access to:
 - **Docker Desktop** – Containerization platform
 - **Node-RED** – Visual flow-based programming for IoT applications
 - **MQTT Broker** – Message queuing telemetry transport protocol
-- **PSoC 6 Development Kit** – Hardware development board (for Model 2 and Model 3)
-- **ModusToolbox** – Integrated development environment for PSoC devices (for Model 2 and Model 3)
+- **Git** and **Node.js (v20+)** – For Bitstream and React frontend (Weeks 11–12; see [Course Outline](./Outline.md))
+- **PSoC 6 Development Kit** – Hardware development board (embedded phase, Weeks 9–12)
+- **ModusToolbox** – Integrated development environment for PSoC devices (embedded phase)
 - **Database Software** – Time-series or relational database (e.g., InfluxDB, PostgreSQL, MySQL)
 
 ---
@@ -224,9 +233,17 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 5. **Start [Week 3](./Week03/)** - Learn Python and Node-RED programming
 6. **Review [Week 4](./Week04/)** - Python for Beginners chapters (Quiz 1 preparation)
 7. **See [Week 5 Quiz 1](./Week05/Quiz-01/)** - Quiz 1 (held in Week 5), preparation checklist, scoring policy
+8. **Continue with [Week 6](./Week06/)** - IoT data storage, processing, and visualization (databases, Python, dashboards)
+9. **Follow [Week 7](./Week07/)** - Databases and real-time processing (continuation of Week 6 themes)
+10. **Take [Week 8 Quiz 2](./Week08/)** - IoT data storage, processing, and visualization assessment
+11. **Move to [Week 9](./Week09/)** - Embedded IoT on PSoC 6: sensors, JSON, and MQTT
+12. **Study [Week 10](./Week10/)** - Digital Twin concepts and MCU–twin communication (VS Code extension)
+13. **Use [Week 11](./Week11/)** - Bitstream workspace: init, build, and program firmware with the React frontend layout
+14. **Finish [Week 12](./Week12/)** - Embedded broker, MCU simulator, and live React dashboard telemetry
+15. **Prepare for [Week 13 Quiz 3](./Week13/)** - Embedded and IoT systems integration (Weeks 09–12), paper and programming parts
 
 ---
 
-**Last Updated:** 2026-03-16
+**Last Updated:** 2026-04-21
 
 ---

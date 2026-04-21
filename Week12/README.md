@@ -1,16 +1,19 @@
 # Week 12: Embedded & IoT Programming using PSoC 6 (Cont.)
 
-In the final learning week, we integrate **AI/ML** capabilities into our PSoC 6 workflows.
+This week completes the **Bitstream** path: run the embedded **MQTT broker**, use the **MCU simulator** when hardware is unavailable, manage processes, and connect the **React** dashboard for live telemetry.
 
 ## Topics
-- **AI/ML Integration**: Applying pattern recognition to IoT data streams.
-- **Anomaly Detection**: Identifying issues using sensor fusion data.
-- **Edge Intelligence**: Implementing intelligent logic on the backend for device control.
+
+* **Embedded MQTT broker (Bitstream)**
+* **MCU simulator workflow (no hardware)**
+* **Starting and stopping broker and simulator processes**
+* **React dashboard: dependencies, dev server, live telemetry**
 
 ## Hands-on Workshop
-- Using Python ML libraries to analyze data from the hardware.
-- Creating automated control loops based on AI-driven insights.
+
+* Broker, publisher (board or simulator), and dashboard together (see [Course Outline](../Outline.md) Week 12)
 
 ---
-**Course:** AUT561: Internet-of-Things Technologies
-**Last Updated:** 2026-03-16
+
+**Course:** AUT561: Internet-of-Things Technologies  
+**Last Updated:** 2026-04-21

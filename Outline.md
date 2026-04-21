@@ -202,69 +202,30 @@
 
 ## **Week 11: Embedded & IoT Programming using PSoC 6 (Continued)**
 
-* **Processing sensor fusion data streams**:
-
-  * Receiving and parsing JSON sensor data from MQTT in Python
-  * Processing fused sensor data streams in real-time
-  * Data validation and error handling for sensor fusion outputs
-  * Storing processed sensor data in databases
-* **Node-RED integration for data flow**:
-
-  * Subscribing to MQTT topics for sensor data streams
-  * Processing JSON messages in Node-RED flows
-  * Integrating sensor fusion data with Node-RED dashboard
-  * Creating data pipelines from MQTT to visualization
-* **Python backend services**:
-
-  * Building Python services to process MQTT sensor data
-  * Real-time data aggregation and analysis
-  * Integrating Python services with Node-RED via HTTP/MQTT
-  * Data transformation and enrichment pipelines
-* **Digital Twin data processing**:
-
-  * Processing data streams from digital twin models
-  * Correlating physical sensor data with digital twin state
-  * Synchronizing data between MCU and digital twin
-  * Handling bidirectional data flows
-* **Hands-on:** Building backend services in Python and Node-RED to process sensor fusion data and digital twin streams from MQTT
+* **Reference:** [drsanti/bitstream-app](https://github.com/drsanti/bitstream-app) (repository) · [Getting started tutorial](https://github.com/drsanti/bitstream-app/blob/main/docs/Tutorial.md)
+* **Bitstream CLI, firmware, and React frontend workspace**
+* **Prerequisites: Git, Node.js, ModusToolbox**
+* **Install Bitstream and prepare the workspace (ROOT layout)**
+* **Initialize project, validate config, fetch libraries, build, and program the kit**
+* **Hands-on:** Bitstream end-to-end setup through firmware flash
 
 ---
 
 ## **Week 12: Embedded & IoT Programming using PSoC 6 (Continued)**
 
-* **AI/ML for sensor fusion data**:
-
-  * Applying machine learning models to fused sensor data
-  * Pattern recognition and anomaly detection in sensor streams
-  * Predictive analytics using historical sensor fusion data
-  * Real-time classification and decision-making
-* **Python for AI/ML in IoT**:
-
-  * Using Python ML libraries (scikit-learn, TensorFlow Lite) for edge analytics
-  * Training models on sensor fusion datasets
-  * Deploying lightweight ML models for real-time inference
-  * Model integration with MQTT data streams
-* **Digital Twin with AI/ML**:
-
-  * Using digital twin data for predictive maintenance
-  * AI-driven simulation and optimization in digital twin
-  * Machine learning models for digital twin state prediction
-  * Intelligent control algorithms based on digital twin analytics
-* **Intelligent decision-making**:
-
-  * Automated responses based on sensor fusion analysis
-  * AI-driven control commands to MCU via MQTT
-  * Feedback loops between physical sensors and digital twin
-  * Edge computing versus cloud-based ML processing
-* **Hands-on:** Implementing AI/ML models in Python to analyze sensor fusion data and digital twin streams, with intelligent decision-making and control
+* **Embedded MQTT broker (Bitstream)**
+* **MCU simulator workflow (no hardware)**
+* **Starting and stopping broker and simulator processes**
+* **React dashboard: dependencies, dev server, live telemetry**
+* **Hands-on:** Broker, publisher (board or simulator), and dashboard together
 
 ---
 
 ## **Week 13: Quiz 3 – Embedded & IoT Systems Integration**
 
 * **Quiz 3: Embedded & IoT Systems Integration**
-  * Paper-based (handwritten): System architecture, hardware integration, digital twin concepts, and AI/ML strategies
-  * Programming: Complete hardware-to-cloud IoT application development and system integration (Weeks 09–12 focus)
+  * Paper-based (handwritten): Embedded system architecture, hardware integration, MQTT and connectivity, and UI application integration for IoT
+  * Programming: End-to-end IoT application—embedded firmware, broker/data path, and UI—demonstrating system integration (Weeks 09–12 focus)
 
 ---
 
@@ -285,13 +246,13 @@ This course is structured into three progressive phases, each increasing in syst
 
 ### **Phase 3: Embedded & IoT Programming using PSoC 6** (Weeks 9–12)
 
-* **Learning Focus:** Hardware sensor reading, digital twins, and AI/ML integration using PSoC 6 MCU
+* **Learning Focus:** PSoC 6 embedded IoT—sensor reading and MQTT/JSON telemetry, firmware tooling and deployment (including Bitstream), broker and data-path integration, and UI application connectivity for end-to-end IoT systems
 * **Assessment:** **Quiz 3** (Week 13) – 35%
 
 **Continuous Assessment:** Assignments throughout the semester – 20%
 
 ---
 
-**Last Updated:** 2026-03-16
+**Last Updated:** 2026-04-21
 
 ---

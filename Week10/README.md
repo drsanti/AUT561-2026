@@ -1,6 +1,6 @@
 # Week 10: Embedded & IoT Programming using PSoC 6 (Cont.)
 
-This week continues our work with the PSoC 6, focusing on **Digital Twin** integration.
+This week continues our work with the PSoC 6, focusing on **Digital Twin** integration. See [Course Outline](../Outline.md) Week 10 for the full topic list.
 
 ## Topics
 - **Virtual Representation**: Understanding Digital Twin concepts.
@@ -13,4 +13,4 @@ This week continues our work with the PSoC 6, focusing on **Digital Twin** integ
 
 ---
 **Course:** AUT561: Internet-of-Things Technologies
-**Last Updated:** 2026-03-16
+**Last Updated:** 2026-04-21
